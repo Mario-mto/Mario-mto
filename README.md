@@ -7,8 +7,7 @@ I'm a Python developer focused on **ML/AI** with a dual degree in **Health Tech*
 - [Email](montchomar@gmail.com)
 
 ## 💻 While you're here, check out my repos  
-- **Brain Morphology vs Head Dimensions (MRI Pipeline)**  
-  https://github.com/MarioMontcho/brain-morphology-mri-pipeline  
+- [**Brain Morphology vs Head Dimensions (MRI Pipeline)**](https://github.com/Mario-mto/Brain-Morphology-vs-Head-Dimensions-MRI-Pipeline-)
   *Python + 3D Slicer (RAS landmarks, bounding boxes) to improve measurement precision & reproducibility.*
 
 - **Bactér-IA (Flow Cytometry Deep Learning)**  
