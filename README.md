@@ -9,24 +9,11 @@ I'm a Python developer focused on **ML/AI** with a dual degree in **Health Tech*
 - [**Brain Morphology vs Head Dimensions (MRI Pipeline)**](https://github.com/Mario-mto/Brain-Morphology-vs-Head-Dimensions-MRI-Pipeline-)
   *Python + 3D Slicer (RAS landmarks, bounding boxes) to improve measurement precision & reproducibility.*
 
-- **Bactér-IA (Flow Cytometry Deep Learning)**  
-  https://github.com/MarioMontcho/bacteria-ia-cytometry-dl  
-  *End-to-end DL pipeline: cleaning → normalization → training (CNN/MLP) → interpretability.*
-
-- **AR Tracking for Surgical Guidance (ArUco + OpenIGTLink)**  
-  https://github.com/MarioMontcho/ar-tracking-aruco-openigtlink  
-  *3D marker tracking streamed to 3D Slicer for real-time visualization.*
-
-- **EEG Spindle Detection (Wavelets & Graphs)**  
-  https://github.com/MarioMontcho/eeg-wavelets-spindles  
+- [**EEG Spindle Detection (Wavelets & Graphs)**](https://github.com/Mario-mto/EEG-Spindle-Detection-Wavelets-Graphs-)  
   *Multi-wavelet + graph-based modeling; MATLAB notebooks and figures.*
 
-- **Full-Stack Demo (React/Node + Scraper)**  
-  https://github.com/MarioMontcho/fullstack-react-node-scraper  
-  *React + Tailwind UI, Node/Express API, and a small web scraper.*
-
 🌱 I’m currently learning  
-- **MLOps** (MLflow, CI/CD, better reproducibility)  
-- **FastAPI** for serving models & data APIs  
-- **Docker + AWS (EC2/S3)** for deployment at small scale  
-- **Data tooling** (Airflow basics, monitoring/metrics)
+- [ ] Shipping a small **full-stack app** (FastAPI · React · Django)
+- [ ] **Instagram video automation** pipeline
+**Tech focus:** Python, FastAPI, Celery, FFmpeg, OpenCV, Postgres, Redis, Docker, GitHub Actions, S3  
+> Note: automation is implemented to comply with the **Instagram Platform Policy** (no scraping, API-first, proper rate-limits & auth).
