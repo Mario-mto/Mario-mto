@@ -4,7 +4,6 @@ I'm a Python developer focused on **ML/AI** with a dual degree in **Health Tech*
 
 ## 📫 Find Me On  
 - [LinkedIn](https://www.linkedin.com/in/mario-montcho-241598212)  
-- [Email](montchomar@gmail.com)
 
 ## 💻 While you're here, check out my repos  
 - [**Brain Morphology vs Head Dimensions (MRI Pipeline)**](https://github.com/Mario-mto/Brain-Morphology-vs-Head-Dimensions-MRI-Pipeline-)
